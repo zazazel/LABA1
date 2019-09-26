@@ -1,0 +1,11 @@
+/Users/mm/Projects/LAB_1.2/LAB_1.2/bin/Debug/netcoreapp2.1/LAB_1.2.deps.json
+/Users/mm/Projects/LAB_1.2/LAB_1.2/bin/Debug/netcoreapp2.1/LAB_1.2.runtimeconfig.json
+/Users/mm/Projects/LAB_1.2/LAB_1.2/bin/Debug/netcoreapp2.1/LAB_1.2.runtimeconfig.dev.json
+/Users/mm/Projects/LAB_1.2/LAB_1.2/bin/Debug/netcoreapp2.1/LAB_1.2.dll
+/Users/mm/Projects/LAB_1.2/LAB_1.2/bin/Debug/netcoreapp2.1/LAB_1.2.pdb
+/Users/mm/Projects/LAB_1.2/LAB_1.2/obj/Debug/netcoreapp2.1/LAB_1.2.csprojAssemblyReference.cache
+/Users/mm/Projects/LAB_1.2/LAB_1.2/obj/Debug/netcoreapp2.1/LAB_1.2.csproj.CoreCompileInputs.cache
+/Users/mm/Projects/LAB_1.2/LAB_1.2/obj/Debug/netcoreapp2.1/LAB_1.2.AssemblyInfoInputs.cache
+/Users/mm/Projects/LAB_1.2/LAB_1.2/obj/Debug/netcoreapp2.1/LAB_1.2.AssemblyInfo.cs
+/Users/mm/Projects/LAB_1.2/LAB_1.2/obj/Debug/netcoreapp2.1/LAB_1.2.dll
+/Users/mm/Projects/LAB_1.2/LAB_1.2/obj/Debug/netcoreapp2.1/LAB_1.2.pdb
